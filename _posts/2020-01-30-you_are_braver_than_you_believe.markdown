@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "You are braver than you believe. "
-date:       2020-01-31 04:38:02 +0000
+title:      "You are braver than you believe."
+date:       2020-01-30 23:38:03 -0500
 permalink:  you_are_braver_than_you_believe
 ---
 
